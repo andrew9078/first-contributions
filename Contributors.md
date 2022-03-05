@@ -120,7 +120,6 @@
 - [YL]
 - [Emily Arnold] 
 - [Chad Kreiger]
-- [Andrew Jung]
 - [Jeffin T.J] (https://github.com/jeffintj75991)
 - [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
 - [Samuel Sau] (https://github.com/SamuelSau)
