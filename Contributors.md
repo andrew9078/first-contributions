@@ -31,6 +31,7 @@
 - [Ashutosh](https://github.com/AshutoshShrestha)
 - [SZH](https://github.com/Shweryl)
 - [Colton Gibson]
+- [Andrew Jung]
 - [cugab gaming]
 - [Haafizz Ismail](https://github.com/haafizzismail)
 - [code Nithin] (https://github.com/codenithin)
